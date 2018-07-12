@@ -1,0 +1,8 @@
+*~
+*.elc
+Makefile
+rudel-pkg.el
+rudel-autoloads.el
+*.log
+doc/auto
+ChangeLog
